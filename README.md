@@ -53,6 +53,5 @@
   0
   nginx is not running
   nginx is running
-```
 
 
