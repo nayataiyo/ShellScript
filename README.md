@@ -7,6 +7,7 @@
   ```sh
   # ./Mysqldump.sh
   ```
+  
   ```
   -- Dump completed on 2024-10-13 10:48:49
   -- MySQL dump 10.13  Distrib 8.0.39, for Linux (x86_64)
@@ -36,8 +37,9 @@
   /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
   -- Dump completed on 2024-10-13 11:40:18 
-```
+
 - process_check.sh
+
   ```sh
   # ./process_check.sh
   3
@@ -45,11 +47,12 @@
   ```
 
 - stopped service process_check.sh
+
   ```sh
   # ./process_check.sh
   0
   nginx is not running
   nginx is running
-
+```
 
 
